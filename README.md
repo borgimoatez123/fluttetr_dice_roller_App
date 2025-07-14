@@ -1,16 +1,17 @@
-# fristappdisce
+# Flutter Dice Roller App 🎲
 
-A new Flutter project.
+A simple and interactive dice roller application built with Flutter. Perfect for learning state management in Flutter using `setState`.
 
-## Getting Started
+![Dice Roller Demo](https://i.imgur.com/7vQZ3gS.gif) <!-- Replace with your actual image URL -->
 
-This project is a starting point for a Flutter application.
+## Features
+- 🎲 Random dice number generation
+- 🔄 Stateful widget animation
+- 🎨 Clean material design UI
+- 📱 Responsive layout
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+1. Ensure Flutter is installed
+2. Clone repository:
+```bash
+git clone https://github.com/borgimoatez123/fluttetr_dice_roller_App.git
