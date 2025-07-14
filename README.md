@@ -1,7 +1,9 @@
 # 🎲 Flutter Dice Roller Application
 
-![Dice Roller Demo](https://i.ibb.co/Cs34VyWN/Capture.png)  
-*(Replace with your actual demo image URL)*
+| Main Screen | Dice Roll | Features |
+|-------------|-----------|----------|
+| ![Main Screen](https://i.ibb.co/Cs34VyWN/Capture.png) | ![Dice Roll](https://i.ibb.co/fd2LLrj3/Capture.png) | ![Features](https://i.ibb.co/G4TGbRRb/f.png) |
+
 
 A dynamic Flutter application that simulates dice rolling with smooth animations and state management.
 
@@ -18,8 +20,3 @@ A dynamic Flutter application that simulates dice rolling with smooth animations
 - Flutter SDK ≥3.0
 - Dart ≥2.17
 
-### Installation
-```bash
-git clone https://github.com/borgimoatez123/fluttetr_dice_roller_App.git
-cd fristappdisce
-flutter pub get<img width="442" height="977" alt="Capture" src="https://github.com/user-attachments/assets/7a94e65b-7fc6-477f-bf7f-8823add99e3e" />
