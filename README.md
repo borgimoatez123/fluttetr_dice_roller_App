@@ -1,6 +1,6 @@
 # 🎲 Flutter Dice Roller Application
 
-![Dice Roller Demo](https://i.imgur.com/7vQZ3gS.gif)  
+![Dice Roller Demo](https://i.ibb.co/Cs34VyWN/Capture.png)  
 *(Replace with your actual demo image URL)*
 
 A dynamic Flutter application that simulates dice rolling with smooth animations and state management.
