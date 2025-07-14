@@ -1,17 +1,25 @@
-# Flutter Dice Roller App 🎲
+# 🎲 Flutter Dice Roller Application
 
-A simple and interactive dice roller application built with Flutter. Perfect for learning state management in Flutter using `setState`.
+![Dice Roller Demo](https://i.imgur.com/7vQZ3gS.gif)  
+*(Replace with your actual demo image URL)*
 
-![Dice Roller Demo](https://i.imgur.com/7vQZ3gS.gif) <!-- Replace with your actual image URL -->
+A dynamic Flutter application that simulates dice rolling with smooth animations and state management.
 
-## Features
-- 🎲 Random dice number generation
-- 🔄 Stateful widget animation
-- 🎨 Clean material design UI
-- 📱 Responsive layout
+## ✨ Features
+- Realistic dice rolling animation
+- State management using `setState`
+- Responsive Material Design UI
+- Gradient background customization
+- Cross-platform compatibility
 
-## Installation
-1. Ensure Flutter is installed
-2. Clone repository:
+## 🚀 Getting Started
+
+### Prerequisites
+- Flutter SDK ≥3.0
+- Dart ≥2.17
+
+### Installation
 ```bash
 git clone https://github.com/borgimoatez123/fluttetr_dice_roller_App.git
+cd fristappdisce
+flutter pub get<img width="442" height="977" alt="Capture" src="https://github.com/user-attachments/assets/7a94e65b-7fc6-477f-bf7f-8823add99e3e" />
